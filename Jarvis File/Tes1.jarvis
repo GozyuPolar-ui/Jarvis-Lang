@@ -1,0 +1,5 @@
+buat a = 10
+buat b = 3
+tulis a + b
+tulis a - b
+tulis a * b
